@@ -1,0 +1,19 @@
+body {
+    background-color: #747474;
+}
+
+
+.col-md-6 {
+    border: 2px solid teal;
+    background-image: url("../images/stars.jpg");
+    text-align: center;
+    color: white;
+    max-height: 500px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 2px;
+}
+
+.col-md-6 ul {
+    list-style: none;
+}
